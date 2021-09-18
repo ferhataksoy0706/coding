@@ -1,0 +1,14 @@
+h1 {
+    background-color: lightgreen;
+    text-align: center;
+    background-image: url(https://www.oregonlive.com/resizer/dMEXxV9SX3tRCFbGcVqaG-2vTeI=/450x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.oregonlive.com/home/olive-media/width2048/img/window-shop/photo/24998508-standard.jpg);
+    color: orangered;
+    font-size: 50px;
+
+}
+#t-shirt {
+    color: red;
+}
+li {
+    list-style: circle;
+}
